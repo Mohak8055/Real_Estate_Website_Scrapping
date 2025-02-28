@@ -1,0 +1,14 @@
+﻿{
+  "Name": "clear search text butto…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "8RRVhKyFkU6lGW1vVmlCVQ",
+  "Reference": "xRS8NxGJnE6zpeaAuHQANQ/8RRVhKyFkU6lGW1vVmlCVQ",
+  "ParentRef": "xRS8NxGJnE6zpeaAuHQANQ/9tswM-OuHkS52KrI0U3Qbw",
+  "Created": "2025-02-28T07:09:33.7178073Z",
+  "Updated": "2025-02-28T07:09:33.7178073Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
